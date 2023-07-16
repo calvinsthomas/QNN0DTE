@@ -10,3 +10,7 @@ Buy to Open Reverse Iron Butterfly/Iron Condor: Buy close-to-ATM strikes P/C (>3
 Sell to Close Reverse Iron Butterfly/Iron Condor: Sell close-to-ATM strikes P/C (>35 Delta), then purchase back OTM strikes P/C
 
 Provides liquidity, better pricing for retail AND institutional at instantaneous points of position entry/exit
+
+P/L: Width of spread and premium paid defines capital at risk/profit. Strategy should be defined around investor preferences/objectives (hedging/speculation)
+
+*Disclaimer: Sophisticated Trading Strategy. Not Investment Advice. Please seek your professional financial advisor.
