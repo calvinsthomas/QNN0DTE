@@ -11,5 +11,5 @@ Sell to Close Reverse Iron Butterfly/Iron Condor: Sell close-to-ATM strikes P/C 
 
 Provides liquidity, better pricing for retail AND institutional at instantaneous points of position entry/exit
 
-*Width of spread and premium paid defines capital at risk/profit. Strategy should be defined around investor preferences/objectives (hedging/speculation)
+Width of spread and premium paid defines capital at risk/profit. Strategy should be defined around investor preferences/objectives (hedging/speculation)
 *Disclaimer: Sophisticated Trading Strategy. Not Investment Advice, please seek financial advisor.
