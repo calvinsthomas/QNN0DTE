@@ -209,5 +209,3 @@ def execute_trade(option_contracts, entry_price, stop_loss, take_profit):
 
   # Execute the trade with the selected options contracts and specified risk management parameters
   execute_trade(option_contracts, entry_price, stop_loss, take_profit)
-
-!pip install qiskit_machine_learning
