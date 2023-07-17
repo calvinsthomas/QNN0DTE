@@ -2,16 +2,15 @@
 
 # Summary:
 
-  1. The IV % mean-reversion off highest minute SPX volume (retail sales)
+  # 1. The IV % mean-reversion off highest minute SPX volume (retail sales)
   
-  2. Expected value of capturing IV% spikes intraday is a strong long-vol opportunity in peak SPX volumes (options bubble? Peak >70M daily options volume on select Friday’s, 10.38 billion options contracts cleared (OCC), >40% SPX volume (aka trillions) traded in 0dte).
+  # 2. Expected value of capturing IV% spikes intraday is a strong long-vol opportunity in peak SPX volumes (options bubble? Peak >70M daily options volume on select Friday’s, 10.38 billion options contracts cleared (OCC), >40% SPX volume (aka trillions) traded in 0dte).
 
 # Strategy Execution Details
 
-We should put 500% as max goal on a bi-monthly or monthly basis: a tiny fraction of capital, (less than 0.5%) as an long vol hedge to HFT alpha, a saturated field which is undiversified across time (infinitesimally small holding periods). It is a long-vol hedge diversifier across time, as HFT quants conduct high-freq. intraday operations. Buying reverse iron butterfly 0dte. Our sell is at either when peak retail closes, or after algorithmic dump at 2 pm. It depends also if you bought at open or at 11 pm. The earliest is best. So flipping when optimal retail covering of their initial positions. The next part is incorporating QNN to sniff out and predict the highest minute SPX volume/strikes.
+# We should put 500% as max goal on a bi-monthly or monthly basis: a tiny fraction of capital, (less than 0.5%) as an long vol hedge to HFT alpha, a saturated field which is undiversified across time (infinitesimally small holding periods). It is a long-vol hedge diversifier across time, as HFT quants conduct high-freq. intraday operations. Buying reverse iron butterfly 0dte. Our sell is at either when peak retail closes, or after algorithmic dump at 2 pm. It depends also if you bought at open or at 11 pm. The earliest is best. So flipping when optimal retail covering of their initial positions. The next part is incorporating QNN to sniff out and predict the highest minute SPX volume/strikes.
 
-Implementing a specific trading strategy using options contracts to hedge against highfrequency trading (HFT) alpha and capture IV% mean-reversion and short-term market movements. We discussed in “0dte SPX + SPY strategies” the pressure on retailer delivery of physical underlying, or to close at predesignated 3X stop losses as time approaches expiry. One approach you could take is to use reverse iron butterfly options contracts with a 0dte to profit from intraday market volatility while limiting potential losses. We buy close-to-ATM strikes P/C, then sell OTM strikes P/C. We should use trading simulators and back-testing for validating results.
-"""
+# Implementing a specific trading strategy using options contracts to hedge against highfrequency trading (HFT) alpha and capture IV% mean-reversion and short-term market movements. We discussed in “0dte SPX + SPY strategies” the pressure on retailer delivery of physical underlying, or to close at predesignated 3X stop losses as time approaches expiry. One approach you could take is to use reverse iron butterfly options contracts with a 0dte to profit from intraday market volatility while limiting potential losses. We buy close-to-ATM strikes P/C, then sell OTM strikes P/C. We should use trading simulators and back-testing for validating results.
 
 import numpy as np
 import pandas as pd
