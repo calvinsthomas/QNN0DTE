@@ -6,6 +6,7 @@ IV % mean-reversion off highest minute SPX volume (retail sales), Uses:
   - Open-source access for aspiring traders, quantitative developers, etc to high-quality code, testable statistical arbitrage investment
       - A coding sandbox: Learn how to build your own profitable algorithmic trading programs
 
+Purchase Debit reverse IB/IC before 11 AM, Sell Credit reverse IB/IC before 2 PM  
 Buy to Open Reverse Iron Butterfly/Iron Condor: Buy close-to-ATM strikes P/C (>35 Delta), then sell OTM strikes P/C
 Sell to Close Reverse Iron Butterfly/Iron Condor: Sell close-to-ATM strikes P/C (>35 Delta), then purchase back OTM strikes P/C
 
