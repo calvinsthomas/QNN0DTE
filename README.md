@@ -15,7 +15,7 @@ Sell to Close Reverse Iron Butterfly/Iron Condor: Sell close-to-ATM strikes P/C 
 
 
 Benefits:
-Provides emergency liquidity and better pricing for retail AND institutional at their instantaneous points of risk (position entry/exit)
+Provides emergency liquidity and better pricing for retail AND institutional market makers at their instantaneous points of risk (position entry/exit)
 
 P/L: Width of spread and premium paid defines capital at risk/profit. Strategy should be defined around investor preferences/objectives (hedging/speculation)
 
