@@ -152,10 +152,11 @@ def select_options_contracts(model, current_market_data):
 
   return option_contracts, predicted_direction
 
+# IMPORTANT!!: Adjust Stop Loss and Take Profit according to your investment objectives (institutional-hedging, profit speculation)
 def calculate_stop_loss_take_profit(entry_price, predicted_direction):
 # Calculate the stop-loss and take-profit levels based on the predicted price direction
-  stop_loss_percent = 0.02 # 2% stop-loss level
-  take_profit_percent = 0.04 # 4% take-profit level
+  stop_loss_percent = 0.75 # 75% stop-loss level, stop loss greater than take profit, so trade exits early when profit hits
+  take_profit_percent = 0.5 # 50% take-profit level, lower TP hits stopping price/time earlier than stop-loss
   if predicted_direction > 0.5:
     stop_loss = entry_price * (1 - stop_loss_percent)
     take_profit = entry_price * (1 + take_profit_percent)
