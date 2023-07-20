@@ -7,6 +7,8 @@ IV % mean-reversion off highest minute SPX volume (retail sales), Uses:
       - A coding sandbox: Learn how to build your own profitable algorithmic trading programs
       - Sentiment analysis (via forums, WSB, etc) of strikes, DTE, etc to identify when market liquidity is most needed.
 
+Strategy developed from my own experiences trading derivatives and competing for premia with market makers on retail exchanges.
+
 Position Details:
 
 Purchase Debit reverse IB/IC AFTER 11 AM, Sell Credit reverse IB/IC BEFORE 2 PM
