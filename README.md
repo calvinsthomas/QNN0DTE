@@ -4,7 +4,7 @@ Open-Source Algorithmic Trading Code (Retail)
 IV % mean-reversion off highest minute SPX volume (retail sales; self-financing, Uses:
   - Institutional Market Maker Hedge: Long volatility hedge to HFT alpha (options sales biased), which is undiversified across time (infinitesimally small holding periods; static bid/ask spread arbitrage)
 
-Speculation (Only Institutional, Not investment advice):
+Speculation (Only Institutional, Not investment advice, Institutions: limit exposure to <2.5% of total capital):
   - Fractional-Kelly Criterion Betting: Self-financing using a fraction of winnings for subsequent betting on volatile auto-correlated days
       - Greater $ winnings overall/self-financing greater future bets for potentially exponential portfolio growth
         - Make a few greater bets early for chance of multiplying the initial base early-on, then quickly reduce future bettings to secure winnings
