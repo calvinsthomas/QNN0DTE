@@ -8,6 +8,7 @@ Speculation (Only Institutional, Not investment advice, Institutions: limit expo
   - Fractional-Kelly Criterion Betting: Self-financing using a fraction of winnings for subsequent betting on volatile auto-correlated days
       - Greater $ winnings overall/self-financing greater future bets for potentially exponential portfolio growth
         - Make a few greater bets early for chance of multiplying the initial base early-on, then quickly reduce future bettings to secure winnings
+        - Feel free to contact me if you or your firm would like fractional-kelly integrated into programming
 
 Open-source access for aspiring traders, quantitative developers, etc to high-quality code, testable statistical arbitrage investment
       - A coding sandbox: Learn how to build your own profitable algorithmic trading programs
