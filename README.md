@@ -7,7 +7,7 @@ IV % mean-reversion off highest minute SPX volume (retail sales), Uses:
       - A coding sandbox: Learn how to build your own profitable algorithmic trading programs
       - Sentiment analysis (via forums, WSB, etc) of strikes, DTE, etc to identify when market liquidity is most needed.
 
-Strategy developed from my own experiences trading derivatives and competing for premia with market makers on retail exchanges.
+Strategy developed from my own experiences trading derivatives on retail exchanges and competing for premia with market makers.
 
 Position Details:
 
