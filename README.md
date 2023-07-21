@@ -12,7 +12,7 @@ Speculation (Only Institutional, Not investment advice, Institutions: limit expo
     - Deploy programmable batches of capital. To be deployed ("server kicks on") on certain volatile days, with a focus on Friday's expiration
     - Feel free to contact me if you or your firm would like fractional-kelly integrated into this program
 
-Open-source access for aspiring traders, quantitative developers, etc to high-quality code, testable statistical arbitrage investment
+For aspiring traders, quantitative developers, etc to access high-quality code, testable statistical arbitrage investment
       - A coding sandbox: Learn how to build your own profitable algorithmic trading programs
       - Sentiment analysis (via forums, WSB, etc) of strikes, DTE, etc to identify when market liquidity is most needed.
 
