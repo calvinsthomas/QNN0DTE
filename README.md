@@ -18,7 +18,7 @@ For aspiring traders, quantitative developers, etc to access high-quality code, 
 
 Programming to trade on only certain volatile days, (i.e. auto BOT at 12 PM, only if SPX is greater than |0.3%| after 9:30AM open and maintains greater than |0.3%| before 11 PM) to increase sharpe ratio/reduce weekly capital exposure to returns
     
-    - Feel free to reach out if you or your firm would like this specific feature added to the program.
+  - Feel free to reach out if you or your firm would like this specific feature added to the program.
 
 Strategy developed from my own experiences trading derivatives on retail exchanges and competing for premia with market makers.
 
