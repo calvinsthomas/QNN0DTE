@@ -16,7 +16,7 @@ For aspiring traders, quantitative developers, etc to access high-quality code, 
       - A coding sandbox: Learn how to build your own profitable algorithmic trading programs
       - Sentiment analysis (via forums, WSB, etc) of strikes, DTE, etc to identify when market liquidity is most needed.
 
-Programming to trade on only certain volatile days, (i.e. auto BOT at 12 PM, only if SPX is greater than |0.3%| after 9:30AM open and maintains greater than |0.3%| before 11 PM) to increase sharpe ratio/reduce weekly capital exposure to returns
+Programming to trade on only certain volatile days, (i.e. auto BOT at 12 PM, only if SPX is greater than |0.3%| after 9:30AM open and maintains greater than |0.3%| before 11 PM, close before 3 PM) to increase sharpe ratio/reduce weekly capital exposure to returns
     
   - Feel free to reach out if you or your firm would like this specific feature added to the program.
 
