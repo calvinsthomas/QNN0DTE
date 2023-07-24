@@ -4,7 +4,7 @@ Institutional Algorithmic Trading Code (Retail)
 IV % mean-reversion off highest minute SPX volume (retail sales; self-financing), Uses:
   - Institutional Market Maker Hedge: Long volatility hedge to HFT alpha (options sales biased), which is undiversified across time (infinitesimally small holding periods; static bid/ask spread arbitrage)
 
-Speculation (Only Institutional, Not investment advice, Institutions: limit exposure to <2.5% of total capital):
+Speculation (Only Institutional, Not investment advice, Institutions: limit max. exposure to <2.0%; based on institutional hedging exposure needs):
   - Fractional-Kelly Criterion Betting: Self-financing using a fraction of winnings for subsequent betting on volatile auto-correlated days
       - Greater $ winnings overall/self-financing greater future bets for potentially exponential portfolio growth
         - Make a few greater bets early for chance of multiplying the initial base early-on, then quickly reduce future bettings to secure winnings
@@ -15,8 +15,6 @@ Speculation (Only Institutional, Not investment advice, Institutions: limit expo
 For aspiring traders, quantitative developers, etc to access high-quality code, testable statistical arbitrage investment
       - A coding sandbox: Learn how to build your own profitable algorithmic trading programs
       - Sentiment analysis (via forums, WSB, etc) of strikes, DTE, etc to identify when market liquidity is most needed.
-
-Programming to trade on only certain volatile days, (i.e. auto BOT at 12 PM and close before 3 PM, only if SPX is greater than |0.3%| after 9:30AM open and maintains greater than |0.3%| before 11 PM) to increase sharpe ratio/reduce weekly capital exposure relative to returns
     
   - Feel free to reach out if you or your firm would like this specific feature added to the program.
 
