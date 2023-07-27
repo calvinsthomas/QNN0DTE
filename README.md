@@ -15,8 +15,6 @@ Speculation (Only Institutional, Not investment advice, Institutions: limit max.
 For aspiring traders, quantitative developers, etc to access high-quality code, testable statistical arbitrage investment
       - A coding sandbox: Learn how to build your own profitable algorithmic trading programs
       - Sentiment analysis (via forums, WSB, etc) of strikes, DTE, etc to identify when market liquidity is most needed.
-    
-  - Feel free to reach out if you or your firm would like this specific feature added to the program.
 
 Strategy developed from my own experiences trading derivatives on retail exchanges and competing for premia with market makers.
 
