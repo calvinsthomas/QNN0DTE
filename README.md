@@ -1,5 +1,5 @@
 # Quantum Neural Network (QNN), 0DTE retail algorithmic trading strategy
-Institutional Algorithmic Trading Code (Retail)
+Institutional Algorithmic Trading Code (Retail Market - Alpha)
 
 IV % mean-reversion off highest minute SPX volume (retail sales; self-financing), Uses:
   - Institutional Market Maker Hedge: Long volatility hedge to HFT alpha (options sales biased), which is undiversified across time (infinitesimally small holding periods; static bid/ask spread arbitrage)
