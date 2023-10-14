@@ -31,4 +31,4 @@ Provides emergency liquidity and better pricing for retail AND institutional mar
 
 P/L: Width of spread and premium paid defines capital at risk/profit. Strategy should be defined around investor preferences/objectives (hedging/speculation)
 
-*Disclaimer: Sophisticated Trading Strategy. Not Investment Advice. Please seek your professional financial advisor.
+*Disclaimer: Sophisticated Institutional Algorithmic Trading Strategy. Not Investment Advice. Please seek your professional financial advisor.
