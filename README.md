@@ -33,6 +33,7 @@ Sell to Close Reverse Iron Butterfly/Iron Condor: Sell close-to-ATM strikes P/C 
 
 <img width="1583" height="746" alt="image" src="https://github.com/user-attachments/assets/b2bf58e8-f34b-49c3-b88e-203e3e6b08ae" />
 
+<img width="853" height="30" alt="image" src="https://github.com/user-attachments/assets/0209aeb7-804f-42ef-8c69-6878204233c7" />
 
 
 Benefits:
