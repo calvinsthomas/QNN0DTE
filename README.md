@@ -35,6 +35,7 @@ Sell to Close Reverse Iron Butterfly/Iron Condor: Sell close-to-ATM strikes P/C 
 
 <img width="853" height="30" alt="image" src="https://github.com/user-attachments/assets/0209aeb7-804f-42ef-8c69-6878204233c7" />
 
+<img width="597" height="706" alt="image" src="https://github.com/user-attachments/assets/7fb56d1b-c96a-4aad-84a9-70ecc1453917" />
 
 Benefits:
 Provides emergency liquidity and better pricing for retail AND institutional market makers at their instantaneous points of risk (position entry/exit)
