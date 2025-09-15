@@ -31,6 +31,9 @@ Purchase Debit reverse IB/IC AFTER 11 AM, Sell Credit reverse IB/IC BEFORE 2 PM
 Buy to Open Reverse Iron Butterfly/Iron Condor: Buy close-to-ATM strikes P/C (>35 Delta), then sell OTM strikes P/C
 Sell to Close Reverse Iron Butterfly/Iron Condor: Sell close-to-ATM strikes P/C (>35 Delta), then purchase back OTM strikes P/C
 
+<img width="1583" height="746" alt="image" src="https://github.com/user-attachments/assets/b2bf58e8-f34b-49c3-b88e-203e3e6b08ae" />
+
+
 
 Benefits:
 Provides emergency liquidity and better pricing for retail AND institutional market makers at their instantaneous points of risk (position entry/exit)
